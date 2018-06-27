@@ -1,7 +1,7 @@
 var katzDeliLine = []
 
 function takeANumber(katzDeliLine, name) {
-  return 
+  return katzDeliLine.name()
 }
 
 function nowServing() {
