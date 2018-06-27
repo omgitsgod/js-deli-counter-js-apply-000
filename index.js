@@ -6,11 +6,8 @@ function takeANumber(katzDeliLine, name) {
 
 function nowServing() {
   
-    return katzDeliLine[0]
-    katzDeliLine.shift()
-
+  return "Currently serving ${katzDeliLine[0]}."
 }
-
 function currentLine() {
   
 }
