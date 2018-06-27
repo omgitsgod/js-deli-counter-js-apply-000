@@ -1,4 +1,3 @@
-var katzDeliLine = []
 
 function takeANumber(katzDeliLine, name) {
   return `Welcome, ${name}. You are number ${katzDeliLine.indexOf(name) +2 } in line.`
