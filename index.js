@@ -5,7 +5,9 @@ function takeANumber(katzDeliLine, name) {
 }
 
 function nowServing() {
-  
+  if (katzDeliLine = true) {
+    
+  }
 }
 
 function currentLine() {
