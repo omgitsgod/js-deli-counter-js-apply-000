@@ -1,7 +1,7 @@
 var katzDeliLine = []
 
 function takeANumber(katzDeliLine, name) {
-  return katzDeliLine.indexOf(name)+1
+  return `Welcome, ${name}. You are number 
 }
 
 function nowServing() {
